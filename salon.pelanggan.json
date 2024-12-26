@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "676ca978944a860cb6893c03"
+  },
+  "nama_pelanggan": "Fakhrunnisa",
+  "transaksi": "30.000",
+  "gender": "perempuan",
+  "model_rambut": "shaggy"
+}]

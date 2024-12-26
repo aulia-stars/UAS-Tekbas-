@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "676cab3d944a860cb6893c04"
+  },
+  "nama_staf": "Nisa",
+  "jenis_layanan": "Potong rambut",
+  "transaksi": "30.000"
+}]
